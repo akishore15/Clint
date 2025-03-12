@@ -3,10 +3,10 @@ A new text editor, written in Python!
 ## Dependencies
 ### Windows
  - WSL
- - 299 B Storage
+ - 1 MB Storage
  - Python
 ### Unix-based Systems
-- 299 B Storage
+- 1 MB Storage
 - Python
 ## How to install (and run)
 1. Open WSL on Windows or LXTerminal on Unix-based systems.
