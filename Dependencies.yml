@@ -1,0 +1,8 @@
+dependencies:
+  language:
+    java:
+     jdkedition:
+      24
+     compiler:
+      javac
+# This is a YAML format of dependencie you need to run R2
